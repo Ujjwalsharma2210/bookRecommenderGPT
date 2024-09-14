@@ -1,0 +1,105 @@
+
+**Fantasy**  
+Fantasy features magical realms, mythical creatures, and supernatural elements. Characters often embark on epic adventures or quests in worlds governed by their own set of rules, separate from reality.
+
+**Science Fiction**  
+Science Fiction explores futuristic technology, space exploration, time travel, and alternate realities. It speculates on scientific advancements and their impact on society and individuals.
+
+**Dystopian**  
+Dystopian stories are set in oppressive societies with authoritarian control, often exploring themes of rebellion, survival, and the consequences of societal collapse.
+
+**Action & Adventure**  
+Action & Adventure focuses on high-stakes, thrilling stories that involve danger, exploration, and heroic feats, often in exotic or perilous settings.
+
+**Mystery**  
+Mystery revolves around solving a crime, puzzle, or enigma, with clues gradually revealed, keeping readers guessing until the resolution.
+
+**Horror**  
+Horror is designed to evoke fear and dread through supernatural, psychological, or physical terror, often with unsettling, creepy atmospheres and monstrous figures.
+
+**Thriller & Suspense**  
+Thriller & Suspense keeps readers on the edge of their seats with tension, danger, and psychological intrigue, involving crime, conspiracies, or deception.
+
+**Historical Fiction**  
+Historical Fiction combines real historical events with fictional characters or scenarios, providing a window into different eras, cultures, and significant moments in time.
+
+**Romance**  
+Romance centers on emotional relationships, often with a focus on love, passion, and intimate connections, typically culminating in a satisfying resolution.
+
+**Women’s Fiction**  
+Women’s Fiction delves into the experiences, relationships, and personal growth of female protagonists, often addressing themes relevant to women’s lives.
+
+**LGBTQ+**  
+LGBTQ+ fiction highlights themes and characters from the LGBTQ+ community, exploring identity, love, societal challenges, and diverse relationships.
+
+**Contemporary Fiction**  
+Contemporary Fiction reflects modern life, often dealing with current social issues, relationships, and the complexities of everyday experiences.
+
+**Literary Fiction**  
+Literary Fiction is character-driven, focusing on in-depth exploration of human emotions, philosophical themes, and nuanced storytelling.
+
+**Magical Realism**  
+Magical Realism blends reality with fantastical elements, incorporating the extraordinary into everyday life in a way that’s accepted as normal by the characters.
+
+**Graphic Novel**  
+Graphic Novels tell stories through a combination of illustrations and text, often spanning various genres, offering a visual and narrative experience.
+
+**Short Story**  
+Short Stories are concise narratives, typically focused on a single event, theme, or character, delivering impactful messages in a brief format.
+
+**Young Adult**  
+Young Adult fiction is written for teens, exploring coming-of-age themes, identity, and personal development through engaging, relatable characters and experiences.
+
+**New Adult**  
+New Adult focuses on characters transitioning from adolescence to adulthood, dealing with college, careers, relationships, and self-discovery.
+
+**Children’s**  
+Children’s literature is geared toward young readers, featuring simple language, imaginative stories, and often containing moral lessons or educational content.
+
+**Memoir & Autobiography**  
+Memoir & Autobiography are personal accounts of an individual’s life experiences, often reflective, intimate, and emotionally engaging.
+
+**Biography**  
+Biographies chronicle the life of a person, written by someone else, often detailing significant achievements, challenges, and personal milestones.
+
+**Food & Drink**  
+Food & Drink books cover culinary techniques, recipes, or cultural aspects of food, offering inspiration for cooking and eating.
+
+**Art & Photography**  
+Art & Photography books explore visual arts, featuring works, techniques, or the lives of artists, offering aesthetic appreciation and creative insight.
+
+**Self-help**  
+Self-help books offer guidance on personal growth, mental well-being, and improving various aspects of life, often providing actionable steps for self-improvement.
+
+**History**  
+History books provide detailed accounts of past events, examining specific periods, figures, or movements, often offering insights into the evolution of societies.
+
+**Travel**  
+Travel books explore cultures, destinations, and personal adventures, often offering a blend of practical travel advice and rich storytelling.
+
+**True Crime**  
+True Crime books delve into real-life criminal cases, examining the events, motivations, and legal outcomes, often with a focus on psychological insight.
+
+**Humor**  
+Humor books are designed to entertain through wit, satire, or lighthearted stories, offering comedic relief and social commentary.
+
+**Essays**  
+Essays are collections of short, reflective, or argumentative pieces on varied topics, often blending personal perspective with intellectual discourse.
+
+**Guide/How-to**  
+Guide/How-to books provide step-by-step instructions on mastering skills or completing specific tasks, often highly practical and instructional.
+
+**Religion & Spirituality**  
+Religion & Spirituality books explore belief systems, faith, practices, and personal spiritual journeys, offering guidance or insights into the nature of existence.
+
+**Humanities & Social Sciences**  
+Humanities & Social Sciences books cover subjects like culture, politics, sociology, and psychology, providing academic or popular insights into human behavior and society.
+
+**Parenting & Families**  
+Parenting & Families books offer advice, stories, or reflections on raising children, family dynamics, and the challenges of parenting.
+
+**Science & Technology**  
+Science & Technology books explore scientific discoveries, technological advances, and their impact on society, often aimed at educating or speculating on future innovations.
+
+**Children’s**  
+Children’s literature is aimed at young readers, fostering imagination, learning, and development through colorful, engaging stories.
