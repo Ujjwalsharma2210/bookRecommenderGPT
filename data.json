@@ -1,0 +1,64 @@
+[
+    {
+        "BookName": "The Great Gatsby",
+        "AuthorName": "F. Scott Fitzgerald",
+        "GenreClassification": {
+            "Literary Fiction": "60",
+            "Historical Fiction": "40"
+        },
+        "SimilarBooks": [
+            "To Kill a Mockingbird",
+            "The Catcher in the Rye"
+        ]
+    },
+    {
+        "BookName": "Jonathan Livingston Seagull",
+        "AuthorName": "Richard Bach",
+        "GenreClassification": {
+            "Fantasy": "60",
+            "Inspirational": "40"
+        },
+        "SimilarBooks": [
+            "The Alchemist",
+            "The Little Prince"
+        ]
+    },
+    {
+        "BookName": "Mastery",
+        "AuthorName": "Robert Greene",
+        "GenreClassification": {
+            "Self-help": "60",
+            "Biography": "20",
+            "Essays": "20"
+        },
+        "SimilarBooks": [
+            "Outliers",
+            "The 7 Habits of Highly Effective People"
+        ]
+    },
+    {
+        "BookName": "Mastery",
+        "AuthorName": "Robert Greene",
+        "GenreClassification": {
+            "Self-help": "60",
+            "Biography": "40"
+        },
+        "SimilarBooks": [
+            "The 48 Laws of Power",
+            "The Art of Seduction"
+        ]
+    },
+    {
+        "BookName": "The Night Circus",
+        "AuthorName": "Erin Morgenstern",
+        "GenreClassification": {
+            "Fantasy": "60",
+            "Literary Fiction": "30",
+            "Romance": "10"
+        },
+        "SimilarBooks": [
+            "The Starless Sea",
+            "The Shadow of the Wind"
+        ]
+    }
+]
